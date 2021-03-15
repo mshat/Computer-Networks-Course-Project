@@ -8,7 +8,7 @@
 
 # Команда
 Харламов П.С. kharlamovps@student.bmstu.ru 
-![Pavel](https://github.com/mshat/team-development/blob/master/img/pavel2.jpg)
+![Pavel](https://github.com/mshat/team-development/blob/master/img/UctBuKDVMSc.jpg)
 Шатохин М.А. shatokhinma@student.bmstu.ru
 ![Max](https://github.com/mshat/team-development/blob/master/img/max.jpg)
 
